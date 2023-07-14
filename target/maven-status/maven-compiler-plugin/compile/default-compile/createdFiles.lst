@@ -1,0 +1,16 @@
+entidades\Reunion.class
+util\EntityManagerUtil.class
+entidades\Acta_.class
+dao\SalaDao.class
+dao\PersonaDao.class
+entidades\Persona_.class
+main\Main.class
+entidades\Reunion_.class
+dao\AbstractDao.class
+entidades\Sala.class
+entidades\Persona.class
+entidades\Sala_.class
+entidades\Acta.class
+dao\Dao.class
+dao\ActaDao.class
+dao\ReunionDao.class
